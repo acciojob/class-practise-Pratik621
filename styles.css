@@ -1,15 +1,7 @@
 /*  your css code here. If applicable */
-p.para1 {
+.selector {
 	font color:#00f;
 	background-color#eee;
 	font-family:Arial;
 	font-size:"20px";
-}
-p.para3{
-	
-	font color:#00f;
-	background-color#eee;
-	font-family:Arial;
-	font-size:"20px";
-
 }
