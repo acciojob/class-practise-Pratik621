@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
-.para1 {
+p.para1 {
 	font color:#00f;
 	background-color#eee;
 	font-family:Arial;
 	font-size:"20px";
 }
-.para3{
+p.para3{
 	
 	font color:#00f;
 	background-color#eee;
